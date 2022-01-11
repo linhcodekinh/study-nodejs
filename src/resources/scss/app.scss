@@ -1,0 +1,9 @@
+//node-sass src/resources/scss/app.scss src/public/css/app.css
+@import 'variables';
+h1 {
+    color: $red-color
+}
+
+h2 {
+    color: orange
+}
